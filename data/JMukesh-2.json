@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "instead of call() , transfer() is used to withdraw the ether",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/2"
+}
