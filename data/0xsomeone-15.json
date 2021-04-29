@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "0xsomeone",
+  "address": "0xa462fae8b85FFf172660c5D9e3C98C84691CA4d2",
+  "risk": "G",
+  "title": "Numerous Gas Optimizations",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/15"
+}
