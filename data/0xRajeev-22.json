@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "0xRajeev",
+  "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+  "risk": "2",
+  "title": "Clone-and-own approach used for OZ SafeMath library and other code susceptible to errors and missing upstream bug fixes",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/22"
+}
