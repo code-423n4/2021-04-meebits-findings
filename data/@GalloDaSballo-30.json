@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "@GalloDaSballo",
+  "address": "0xe46887c50a3Cf2C19A705EB42596A04fD139b2C6",
+  "risk": "G",
+  "title": "randomIndex is not truly random - possibility of predictably minting a specific token Id",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/30"
+}
