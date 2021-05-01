@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "3",
+  "title": "Beebots.randomIndex() Can Be Manipulated To Not Be Random Without Costing Alice Anything",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/85"
+}
