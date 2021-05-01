@@ -1,0 +1,9 @@
+{
+  "contest": "6",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "1",
+  "title": "Beebots.contentHash() Is Currently Set As \"todo\"",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2021-04-redacted-findings/issues/79"
+}
